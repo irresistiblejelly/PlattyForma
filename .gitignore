@@ -1,0 +1,17 @@
+# Godot-specific ignores
+.import/
+export.cfg
+export_presets.cfg
+
+# Mono-specific ignores
+.mono/
+
+# System/tool-specific ignores
+.directory
+*~
+
+ 
+
+12_CM_RPG  Cursor Triple Pack/Target.psd
+12_CM_RPG  Cursor Triple Pack/Walk.psd
+Assets/lots_of_verts.png
